@@ -2,10 +2,10 @@ package com.company;
 
 
 public enum Types {
-    ADMIN(1),
-    PREMIUM(2),
-    AUTHORIZED(3),
-    GUEST(4);
+    ADMIN(4),
+    PREMIUM(3),
+    AUTHORIZED(2),
+    GUEST(1);
 
     private int order;
 
